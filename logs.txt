@@ -1,0 +1,1939 @@
+Total trainable params: 134,301,514
+Accuracy of finetuned model:  93.84
+===Ready to prune  43 th filter in  10 th layer===
+Pruned params: 1,153
+Pruned ratio:  0.000858516010474759 %
+Accuracy of pruned model:  92.23
+===Ready to prune  138 th filter in  12 th layer===
+Pruned params: 3,458
+Pruned ratio:  0.0025748034381801533 %
+Accuracy of pruned model:  90.14
+===Ready to prune  29 th filter in  19 th layer===
+Pruned params: 8,067
+Pruned ratio:  0.006006633700346818 %
+Accuracy of pruned model:  92.11
+===Ready to prune  51 th filter in  21 th layer===
+Pruned params: 12,676
+Pruned ratio:  0.009438463962513483 %
+Accuracy of pruned model:  91.89
+===Ready to prune  461 th filter in  24 th layer===
+Pruned params: 17,285
+Pruned ratio:  0.012870294224680147 %
+Accuracy of pruned model:  91.41
+===Ready to prune  39 th filter in  28 th layer===
+Pruned params: 21,894
+Pruned ratio:  0.016302124486846814 %
+Accuracy of pruned model:  92.85
+===Ready to prune  236 th filter in  28 th layer===
+Pruned params: 26,503
+Pruned ratio:  0.019733954749013478 %
+Accuracy of pruned model:  92.98
+===Ready to prune  453 th filter in  28 th layer===
+Pruned params: 31,112
+Pruned ratio:  0.02316578501118014 %
+Accuracy of pruned model:  93.23
+===Ready to prune  130 th filter in  26 th layer===
+Pruned params: 35,721
+Pruned ratio:  0.02659761527334681 %
+Accuracy of pruned model:  92.76
+===Ready to prune  116 th filter in  19 th layer===
+Pruned params: 40,330
+Pruned ratio:  0.030029445535513472 %
+Accuracy of pruned model:  93.46
+===Ready to prune  101 th filter in  28 th layer===
+Pruned params: 44,939
+Pruned ratio:  0.033461275797680136 %
+Accuracy of pruned model:  92.98
+===Ready to prune  382 th filter in  28 th layer===
+Pruned params: 49,548
+Pruned ratio:  0.0368931060598468 %
+Accuracy of pruned model:  93.45
+===Ready to prune  500 th filter in  28 th layer===
+Pruned params: 54,157
+Pruned ratio:  0.04032493632201346 %
+Accuracy of pruned model:  93.44
+===Ready to prune  341 th filter in  28 th layer===
+Pruned params: 58,766
+Pruned ratio:  0.04375676658418013 %
+Accuracy of pruned model:  92.66
+===Ready to prune  424 th filter in  19 th layer===
+Pruned params: 63,375
+Pruned ratio:  0.0471885968463468 %
+Accuracy of pruned model:  92.76
+===Ready to prune  334 th filter in  28 th layer===
+Pruned params: 67,984
+Pruned ratio:  0.05062042710851346 %
+Accuracy of pruned model:  93.67
+===Ready to prune  46 th filter in  0 th layer===
+Pruned params: 68,012
+Pruned ratio:  0.05064127571934893 %
+Accuracy of pruned model:  93.96
+===Ready to prune  227 th filter in  10 th layer===
+Pruned params: 69,165
+Pruned ratio:  0.051499791729823684 %
+Accuracy of pruned model:  93.75
+===Ready to prune  170 th filter in  28 th layer===
+Pruned params: 73,774
+Pruned ratio:  0.05493162199199035 %
+Accuracy of pruned model:  93.41
+===Ready to prune  91 th filter in  21 th layer===
+Pruned params: 78,383
+Pruned ratio:  0.05836345225415702 %
+Accuracy of pruned model:  92.92
+===Ready to prune  306 th filter in  28 th layer===
+Pruned params: 82,992
+Pruned ratio:  0.06179528251632368 %
+Accuracy of pruned model:  93.35
+===Ready to prune  467 th filter in  28 th layer===
+Pruned params: 87,601
+Pruned ratio:  0.06522711277849035 %
+Accuracy of pruned model:  93.55
+===Ready to prune  377 th filter in  19 th layer===
+Pruned params: 92,210
+Pruned ratio:  0.068658943040657 %
+Accuracy of pruned model:  92.99
+===Ready to prune  251 th filter in  28 th layer===
+Pruned params: 96,819
+Pruned ratio:  0.07209077330282368 %
+Accuracy of pruned model:  92.58
+===Ready to prune  511 th filter in  24 th layer===
+Pruned params: 101,428
+Pruned ratio:  0.07552260356499034 %
+Accuracy of pruned model:  92.33
+===Ready to prune  72 th filter in  28 th layer===
+Pruned params: 106,037
+Pruned ratio:  0.078954433827157 %
+Accuracy of pruned model:  93.43
+===Ready to prune  17 th filter in  17 th layer===
+Pruned params: 108,342
+Pruned ratio:  0.0806707212548624 %
+Accuracy of pruned model:  92.28
+===Ready to prune  51 th filter in  28 th layer===
+Pruned params: 112,951
+Pruned ratio:  0.08410255151702907 %
+Accuracy of pruned model:  92.75
+===Ready to prune  96 th filter in  28 th layer===
+Pruned params: 117,560
+Pruned ratio:  0.08753438177919573 %
+Accuracy of pruned model:  92.24
+===Ready to prune  377 th filter in  21 th layer===
+Pruned params: 122,169
+Pruned ratio:  0.09096621204136239 %
+Accuracy of pruned model:  93.58
+===Ready to prune  126 th filter in  28 th layer===
+Pruned params: 126,778
+Pruned ratio:  0.09439804230352906 %
+Accuracy of pruned model:  94.04
+===Ready to prune  344 th filter in  28 th layer===
+Pruned params: 131,387
+Pruned ratio:  0.09782987256569572 %
+Accuracy of pruned model:  93.68
+===Ready to prune  256 th filter in  28 th layer===
+Pruned params: 135,996
+Pruned ratio:  0.10126170282786238 %
+Accuracy of pruned model:  94.23
+===Ready to prune  458 th filter in  28 th layer===
+Pruned params: 140,605
+Pruned ratio:  0.10469353309002906 %
+Accuracy of pruned model:  94.45
+===Ready to prune  35 th filter in  0 th layer===
+Pruned params: 140,633
+Pruned ratio:  0.10471438170086451 %
+Accuracy of pruned model:  94.5
+===Ready to prune  77 th filter in  28 th layer===
+Pruned params: 145,242
+Pruned ratio:  0.10814621196303119 %
+Accuracy of pruned model:  94.49
+===Ready to prune  53 th filter in  2 th layer===
+Pruned params: 145,819
+Pruned ratio:  0.10857584226489063 %
+Accuracy of pruned model:  94.47
+===Ready to prune  307 th filter in  28 th layer===
+Pruned params: 150,428
+Pruned ratio:  0.11200767252705729 %
+Accuracy of pruned model:  94.47
+===Ready to prune  84 th filter in  5 th layer===
+Pruned params: 151,005
+Pruned ratio:  0.11243730282891673 %
+Accuracy of pruned model:  94.48
+===Ready to prune  435 th filter in  28 th layer===
+Pruned params: 155,614
+Pruned ratio:  0.11586913309108339 %
+Accuracy of pruned model:  94.46
+===Ready to prune  108 th filter in  28 th layer===
+Pruned params: 160,223
+Pruned ratio:  0.11930096335325006 %
+Accuracy of pruned model:  94.46
+===Ready to prune  134 th filter in  24 th layer===
+Pruned params: 164,832
+Pruned ratio:  0.12273279361541672 %
+Accuracy of pruned model:  94.44
+===Ready to prune  63 th filter in  28 th layer===
+Pruned params: 169,441
+Pruned ratio:  0.1261646238775834 %
+Accuracy of pruned model:  94.49
+===Ready to prune  163 th filter in  14 th layer===
+Pruned params: 171,746
+Pruned ratio:  0.12788091130528878 %
+Accuracy of pruned model:  94.5
+===Ready to prune  52 th filter in  28 th layer===
+Pruned params: 176,355
+Pruned ratio:  0.13131274156745545 %
+Accuracy of pruned model:  94.49
+===Ready to prune  374 th filter in  28 th layer===
+Pruned params: 180,964
+Pruned ratio:  0.1347445718296221 %
+Accuracy of pruned model:  94.52
+===Ready to prune  389 th filter in  21 th layer===
+Pruned params: 185,573
+Pruned ratio:  0.13817640209178877 %
+Accuracy of pruned model:  94.53
+===Ready to prune  193 th filter in  19 th layer===
+Pruned params: 190,182
+Pruned ratio:  0.14160823235395545 %
+Accuracy of pruned model:  94.56
+===Ready to prune  409 th filter in  26 th layer===
+Pruned params: 194,791
+Pruned ratio:  0.1450400626161221 %
+Accuracy of pruned model:  94.55
+===Ready to prune  4 th filter in  28 th layer===
+Pruned params: 199,400
+Pruned ratio:  0.14847189287828877 %
+Accuracy of pruned model:  94.55
+===Ready to prune  323 th filter in  17 th layer===
+Pruned params: 201,705
+Pruned ratio:  0.15018818030599418 %
+Accuracy of pruned model:  94.54
+===Ready to prune  398 th filter in  28 th layer===
+Pruned params: 206,314
+Pruned ratio:  0.15362001056816083 %
+Accuracy of pruned model:  94.54
+===Ready to prune  68 th filter in  28 th layer===
+Pruned params: 210,923
+Pruned ratio:  0.1570518408303275 %
+Accuracy of pruned model:  94.54
+===Ready to prune  421 th filter in  28 th layer===
+Pruned params: 215,532
+Pruned ratio:  0.16048367109249417 %
+Accuracy of pruned model:  94.52
+===Ready to prune  404 th filter in  28 th layer===
+Pruned params: 220,141
+Pruned ratio:  0.16391550135466082 %
+Accuracy of pruned model:  94.53
+===Ready to prune  429 th filter in  28 th layer===
+Pruned params: 224,750
+Pruned ratio:  0.1673473316168275 %
+Accuracy of pruned model:  94.53
+===Ready to prune  497 th filter in  28 th layer===
+Pruned params: 229,359
+Pruned ratio:  0.17077916187899417 %
+Accuracy of pruned model:  94.5
+===Ready to prune  325 th filter in  21 th layer===
+Pruned params: 233,968
+Pruned ratio:  0.17421099214116081 %
+Accuracy of pruned model:  94.48
+===Ready to prune  243 th filter in  24 th layer===
+Pruned params: 238,577
+Pruned ratio:  0.1776428224033275 %
+Accuracy of pruned model:  94.5
+===Ready to prune  199 th filter in  24 th layer===
+Pruned params: 243,186
+Pruned ratio:  0.18107465266549416 %
+Accuracy of pruned model:  94.52
+===Ready to prune  16 th filter in  19 th layer===
+Pruned params: 247,795
+Pruned ratio:  0.1845064829276608 %
+Accuracy of pruned model:  94.51
+===Ready to prune  24 th filter in  28 th layer===
+Pruned params: 252,404
+Pruned ratio:  0.18793831318982748 %
+Accuracy of pruned model:  94.49
+===Ready to prune  50 th filter in  17 th layer===
+Pruned params: 254,709
+Pruned ratio:  0.18965460061753286 %
+Accuracy of pruned model:  94.54
+===Ready to prune  478 th filter in  21 th layer===
+Pruned params: 259,318
+Pruned ratio:  0.19308643087969954 %
+Accuracy of pruned model:  94.54
+===Ready to prune  396 th filter in  28 th layer===
+Pruned params: 263,927
+Pruned ratio:  0.1965182611418662 %
+Accuracy of pruned model:  94.53
+===Ready to prune  192 th filter in  28 th layer===
+Pruned params: 268,536
+Pruned ratio:  0.19995009140403286 %
+Accuracy of pruned model:  94.53
+===Ready to prune  273 th filter in  28 th layer===
+Pruned params: 273,145
+Pruned ratio:  0.20338192166619953 %
+Accuracy of pruned model:  94.51
+===Ready to prune  80 th filter in  28 th layer===
+Pruned params: 277,754
+Pruned ratio:  0.2068137519283662 %
+Accuracy of pruned model:  94.53
+===Ready to prune  397 th filter in  17 th layer===
+Pruned params: 280,059
+Pruned ratio:  0.2085300393560716 %
+Accuracy of pruned model:  94.51
+===Ready to prune  156 th filter in  28 th layer===
+Pruned params: 284,668
+Pruned ratio:  0.21196186961823826 %
+Accuracy of pruned model:  94.49
+===Ready to prune  8 th filter in  21 th layer===
+Pruned params: 289,277
+Pruned ratio:  0.2153936998804049 %
+Accuracy of pruned model:  94.47
+===Ready to prune  490 th filter in  28 th layer===
+Pruned params: 293,886
+Pruned ratio:  0.21882553014257158 %
+Accuracy of pruned model:  94.48
+===Ready to prune  276 th filter in  17 th layer===
+Pruned params: 296,191
+Pruned ratio:  0.220541817570277 %
+Accuracy of pruned model:  94.44
+===Ready to prune  41 th filter in  28 th layer===
+Pruned params: 300,800
+Pruned ratio:  0.22397364783244364 %
+Accuracy of pruned model:  94.41
+===Ready to prune  361 th filter in  28 th layer===
+Pruned params: 305,409
+Pruned ratio:  0.2274054780946103 %
+Accuracy of pruned model:  94.41
+===Ready to prune  478 th filter in  28 th layer===
+Pruned params: 310,018
+Pruned ratio:  0.230837308356777 %
+Accuracy of pruned model:  94.4
+===Ready to prune  8 th filter in  28 th layer===
+Pruned params: 314,627
+Pruned ratio:  0.23426913861894363 %
+Accuracy of pruned model:  94.38
+===Ready to prune  99 th filter in  28 th layer===
+Pruned params: 319,236
+Pruned ratio:  0.2377009688811103 %
+Accuracy of pruned model:  94.4
+===Ready to prune  380 th filter in  28 th layer===
+Pruned params: 323,845
+Pruned ratio:  0.24113279914327698 %
+Accuracy of pruned model:  94.43
+===Ready to prune  62 th filter in  0 th layer===
+Pruned params: 323,873
+Pruned ratio:  0.24115364775411244 %
+Accuracy of pruned model:  94.43
+===Ready to prune  85 th filter in  28 th layer===
+Pruned params: 328,482
+Pruned ratio:  0.2445854780162791 %
+Accuracy of pruned model:  94.41
+===Ready to prune  47 th filter in  28 th layer===
+Pruned params: 333,091
+Pruned ratio:  0.24801730827844576 %
+Accuracy of pruned model:  94.45
+===Ready to prune  271 th filter in  28 th layer===
+Pruned params: 337,700
+Pruned ratio:  0.2514491385406124 %
+Accuracy of pruned model:  94.43
+===Ready to prune  258 th filter in  26 th layer===
+Pruned params: 342,309
+Pruned ratio:  0.2548809688027791 %
+Accuracy of pruned model:  94.48
+===Ready to prune  174 th filter in  28 th layer===
+Pruned params: 346,918
+Pruned ratio:  0.25831279906494575 %
+Accuracy of pruned model:  94.48
+===Ready to prune  373 th filter in  28 th layer===
+Pruned params: 351,527
+Pruned ratio:  0.2617446293271124 %
+Accuracy of pruned model:  94.41
+===Ready to prune  328 th filter in  21 th layer===
+Pruned params: 356,136
+Pruned ratio:  0.2651764595892791 %
+Accuracy of pruned model:  94.41
+===Ready to prune  301 th filter in  28 th layer===
+Pruned params: 360,745
+Pruned ratio:  0.26860828985144575 %
+Accuracy of pruned model:  94.4
+===Ready to prune  21 th filter in  12 th layer===
+Pruned params: 363,050
+Pruned ratio:  0.27032457727915116 %
+Accuracy of pruned model:  94.41
+===Ready to prune  85 th filter in  12 th layer===
+Pruned params: 365,355
+Pruned ratio:  0.27204086470685657 %
+Accuracy of pruned model:  94.4
+===Ready to prune  54 th filter in  10 th layer===
+Pruned params: 366,508
+Pruned ratio:  0.27289938071733133 %
+Accuracy of pruned model:  94.4
+===Ready to prune  15 th filter in  14 th layer===
+Pruned params: 368,813
+Pruned ratio:  0.2746156681450367 %
+Accuracy of pruned model:  94.45
+===Ready to prune  494 th filter in  28 th layer===
+Pruned params: 373,422
+Pruned ratio:  0.2780474984072034 %
+Accuracy of pruned model:  94.42
+===Ready to prune  413 th filter in  28 th layer===
+Pruned params: 378,031
+Pruned ratio:  0.28147932866937003 %
+Accuracy of pruned model:  94.44
+===Ready to prune  305 th filter in  28 th layer===
+Pruned params: 382,640
+Pruned ratio:  0.2849111589315367 %
+Accuracy of pruned model:  94.42
+===Ready to prune  67 th filter in  24 th layer===
+Pruned params: 387,249
+Pruned ratio:  0.2883429891937034 %
+Accuracy of pruned model:  94.45
+===Ready to prune  418 th filter in  28 th layer===
+Pruned params: 391,858
+Pruned ratio:  0.29177481945587 %
+Accuracy of pruned model:  94.45
+===Ready to prune  351 th filter in  26 th layer===
+Pruned params: 396,467
+Pruned ratio:  0.2952066497180367 %
+Accuracy of pruned model:  94.45
+===Ready to prune  427 th filter in  28 th layer===
+Pruned params: 401,076
+Pruned ratio:  0.2986384799802034 %
+Accuracy of pruned model:  94.42
+===Ready to prune  177 th filter in  28 th layer===
+Pruned params: 405,685
+Pruned ratio:  0.30207031024237 %
+Accuracy of pruned model:  94.42
+===Ready to prune  193 th filter in  26 th layer===
+Pruned params: 410,294
+Pruned ratio:  0.30550214050453667 %
+Accuracy of pruned model:  94.42
+===Ready to prune  376 th filter in  26 th layer===
+Pruned params: 414,903
+Pruned ratio:  0.30893397076670337 %
+Accuracy of pruned model:  94.43
+===Ready to prune  373 th filter in  26 th layer===
+Pruned params: 419,512
+Pruned ratio:  0.31236580102887 %
+Accuracy of pruned model:  94.42
+===Ready to prune  212 th filter in  21 th layer===
+Pruned params: 424,121
+Pruned ratio:  0.31579763129103666 %
+Accuracy of pruned model:  94.38
+===Ready to prune  67 th filter in  28 th layer===
+Pruned params: 428,730
+Pruned ratio:  0.31922946155320336 %
+Accuracy of pruned model:  94.39
+===Ready to prune  405 th filter in  28 th layer===
+Pruned params: 433,339
+Pruned ratio:  0.32266129181537 %
+Accuracy of pruned model:  94.37
+===Ready to prune  139 th filter in  28 th layer===
+Pruned params: 437,948
+Pruned ratio:  0.32609312207753666 %
+Accuracy of pruned model:  94.36
+===Ready to prune  464 th filter in  28 th layer===
+Pruned params: 442,557
+Pruned ratio:  0.32952495233970336 %
+Accuracy of pruned model:  94.35
+===Ready to prune  49 th filter in  0 th layer===
+Pruned params: 442,585
+Pruned ratio:  0.3295458009505388 %
+Accuracy of pruned model:  94.35
+===Ready to prune  250 th filter in  28 th layer===
+Pruned params: 447,194
+Pruned ratio:  0.33297763121270546 %
+Accuracy of pruned model:  94.33
+===Ready to prune  95 th filter in  28 th layer===
+Pruned params: 451,803
+Pruned ratio:  0.3364094614748721 %
+Accuracy of pruned model:  94.34
+===Ready to prune  461 th filter in  17 th layer===
+Pruned params: 454,108
+Pruned ratio:  0.3381257489025775 %
+Accuracy of pruned model:  94.36
+===Ready to prune  480 th filter in  28 th layer===
+Pruned params: 458,717
+Pruned ratio:  0.34155757916474416 %
+Accuracy of pruned model:  94.36
+===Ready to prune  34 th filter in  28 th layer===
+Pruned params: 463,326
+Pruned ratio:  0.34498940942691086 %
+Accuracy of pruned model:  94.34
+===Ready to prune  255 th filter in  28 th layer===
+Pruned params: 467,935
+Pruned ratio:  0.3484212396890775 %
+Accuracy of pruned model:  94.34
+===Ready to prune  6 th filter in  17 th layer===
+Pruned params: 470,240
+Pruned ratio:  0.3501375271167829 %
+Accuracy of pruned model:  94.36
+===Ready to prune  64 th filter in  28 th layer===
+Pruned params: 474,849
+Pruned ratio:  0.35356935737894957 %
+Accuracy of pruned model:  94.35
+===Ready to prune  236 th filter in  10 th layer===
+Pruned params: 476,002
+Pruned ratio:  0.35442787338942433 %
+Accuracy of pruned model:  94.36
+===Ready to prune  433 th filter in  17 th layer===
+Pruned params: 478,307
+Pruned ratio:  0.35614416081712974 %
+Accuracy of pruned model:  94.36
+===Ready to prune  124 th filter in  28 th layer===
+Pruned params: 482,916
+Pruned ratio:  0.3595759910792964 %
+Accuracy of pruned model:  94.35
+===Ready to prune  152 th filter in  28 th layer===
+Pruned params: 487,525
+Pruned ratio:  0.36300782134146303 %
+Accuracy of pruned model:  94.36
+===Ready to prune  407 th filter in  17 th layer===
+Pruned params: 489,830
+Pruned ratio:  0.36472410876916844 %
+Accuracy of pruned model:  94.37
+===Ready to prune  448 th filter in  28 th layer===
+Pruned params: 494,439
+Pruned ratio:  0.36815593903133514 %
+Accuracy of pruned model:  94.37
+===Ready to prune  161 th filter in  28 th layer===
+Pruned params: 499,048
+Pruned ratio:  0.3715877692935018 %
+Accuracy of pruned model:  94.33
+===Ready to prune  457 th filter in  28 th layer===
+Pruned params: 503,657
+Pruned ratio:  0.37501959955566844 %
+Accuracy of pruned model:  94.31
+===Ready to prune  317 th filter in  17 th layer===
+Pruned params: 505,962
+Pruned ratio:  0.37673588698337385 %
+Accuracy of pruned model:  94.29
+===Ready to prune  447 th filter in  28 th layer===
+Pruned params: 510,571
+Pruned ratio:  0.3801677172455405 %
+Accuracy of pruned model:  94.28
+===Ready to prune  477 th filter in  28 th layer===
+Pruned params: 515,180
+Pruned ratio:  0.3835995475077072 %
+Accuracy of pruned model:  94.3
+===Ready to prune  337 th filter in  26 th layer===
+Pruned params: 519,789
+Pruned ratio:  0.38703137776987384 %
+Accuracy of pruned model:  94.34
+===Ready to prune  214 th filter in  28 th layer===
+Pruned params: 524,398
+Pruned ratio:  0.3904632080320405 %
+Accuracy of pruned model:  94.32
+===Ready to prune  62 th filter in  7 th layer===
+Pruned params: 525,551
+Pruned ratio:  0.39132172404251525 %
+Accuracy of pruned model:  94.32
+===Ready to prune  459 th filter in  24 th layer===
+Pruned params: 530,160
+Pruned ratio:  0.39475355430468195 %
+Accuracy of pruned model:  94.27
+===Ready to prune  393 th filter in  28 th layer===
+Pruned params: 534,769
+Pruned ratio:  0.3981853845668486 %
+Accuracy of pruned model:  94.31
+===Ready to prune  426 th filter in  28 th layer===
+Pruned params: 539,378
+Pruned ratio:  0.40161721482901525 %
+Accuracy of pruned model:  94.3
+===Ready to prune  192 th filter in  12 th layer===
+Pruned params: 541,683
+Pruned ratio:  0.40333350225672066 %
+Accuracy of pruned model:  94.33
+===Ready to prune  146 th filter in  28 th layer===
+Pruned params: 546,292
+Pruned ratio:  0.4067653325188873 %
+Accuracy of pruned model:  94.34
+===Ready to prune  25 th filter in  28 th layer===
+Pruned params: 550,901
+Pruned ratio:  0.410197162781054 %
+Accuracy of pruned model:  94.33
+===Ready to prune  434 th filter in  28 th layer===
+Pruned params: 555,510
+Pruned ratio:  0.41362899304322065 %
+Accuracy of pruned model:  94.32
+===Ready to prune  370 th filter in  28 th layer===
+Pruned params: 560,119
+Pruned ratio:  0.4170608233053873 %
+Accuracy of pruned model:  94.38
+===Ready to prune  276 th filter in  28 th layer===
+Pruned params: 564,728
+Pruned ratio:  0.420492653567554 %
+Accuracy of pruned model:  94.4
+===Ready to prune  484 th filter in  28 th layer===
+Pruned params: 569,337
+Pruned ratio:  0.42392448382972064 %
+Accuracy of pruned model:  94.39
+===Ready to prune  400 th filter in  28 th layer===
+Pruned params: 573,946
+Pruned ratio:  0.4273563140918873 %
+Accuracy of pruned model:  94.41
+===Ready to prune  241 th filter in  28 th layer===
+Pruned params: 578,555
+Pruned ratio:  0.430788144354054 %
+Accuracy of pruned model:  94.38
+===Ready to prune  61 th filter in  17 th layer===
+Pruned params: 580,860
+Pruned ratio:  0.43250443178175935 %
+Accuracy of pruned model:  94.37
+===Ready to prune  280 th filter in  21 th layer===
+Pruned params: 585,469
+Pruned ratio:  0.43593626204392605 %
+Accuracy of pruned model:  94.34
+===Ready to prune  262 th filter in  28 th layer===
+Pruned params: 590,078
+Pruned ratio:  0.4393680923060927 %
+Accuracy of pruned model:  94.35
+===Ready to prune  438 th filter in  26 th layer===
+Pruned params: 594,687
+Pruned ratio:  0.44279992256825934 %
+Accuracy of pruned model:  94.36
+===Ready to prune  332 th filter in  28 th layer===
+Pruned params: 599,296
+Pruned ratio:  0.44623175283042604 %
+Accuracy of pruned model:  93.93
+===Ready to prune  277 th filter in  28 th layer===
+Pruned params: 603,905
+Pruned ratio:  0.4496635830925927 %
+Accuracy of pruned model:  94.23
+===Ready to prune  394 th filter in  26 th layer===
+Pruned params: 608,514
+Pruned ratio:  0.45309541335475934 %
+Accuracy of pruned model:  94.23
+===Ready to prune  459 th filter in  28 th layer===
+Pruned params: 613,123
+Pruned ratio:  0.45652724361692604 %
+Accuracy of pruned model:  94.15
+===Ready to prune  442 th filter in  28 th layer===
+Pruned params: 617,732
+Pruned ratio:  0.4599590738790927 %
+Accuracy of pruned model:  94.18
+===Ready to prune  424 th filter in  26 th layer===
+Pruned params: 622,341
+Pruned ratio:  0.46339090414125933 %
+Accuracy of pruned model:  94.14
+===Ready to prune  351 th filter in  28 th layer===
+Pruned params: 626,950
+Pruned ratio:  0.46682273440342603 %
+Accuracy of pruned model:  94.21
+===Ready to prune  409 th filter in  28 th layer===
+Pruned params: 631,559
+Pruned ratio:  0.4702545646655927 %
+Accuracy of pruned model:  94.24
+===Ready to prune  52 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.27
+Total trainable params: 134,301,514
+Accuracy of finetuned model:  94.27
+===Ready to prune  35 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  46 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  49 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  62 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  53 th filter in  2 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.21
+===Ready to prune  84 th filter in  5 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.21
+===Ready to prune  62 th filter in  7 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  43 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  54 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  227 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  236 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  21 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  85 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  138 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  192 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  15 th filter in  14 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  163 th filter in  14 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  6 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  17 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  50 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  61 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  276 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  317 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  323 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  397 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  407 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  433 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  461 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  16 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  29 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  116 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  193 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  377 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  424 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  8 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  51 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  91 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  212 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  280 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  325 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  328 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  377 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  389 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  478 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  52 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  67 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  134 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  199 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  243 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  459 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  461 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  511 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  130 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  193 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  258 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  337 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+
+Total trainable params: 134,301,514
+Accuracy of finetuned model:  94.24
+===Ready to prune  35 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  46 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  49 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  62 th filter in  0 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  53 th filter in  2 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  84 th filter in  5 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  62 th filter in  7 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  43 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  54 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  227 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  236 th filter in  10 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  21 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  85 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  138 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  192 th filter in  12 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  15 th filter in  14 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  163 th filter in  14 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  6 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  17 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  50 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.22
+===Ready to prune  61 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  276 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  317 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  323 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  397 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  407 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  433 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  461 th filter in  17 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  16 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.23
+===Ready to prune  29 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  116 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  193 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  377 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  424 th filter in  19 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.24
+===Ready to prune  8 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  51 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  91 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  212 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  280 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  325 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  328 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  377 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  389 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  478 th filter in  21 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  52 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  67 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  134 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  199 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  243 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  459 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  461 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  511 th filter in  24 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  130 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  193 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  258 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  337 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  351 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  373 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  376 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  394 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  409 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  424 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  438 th filter in  26 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  4 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  8 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  24 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  25 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  34 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.26
+===Ready to prune  39 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  41 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  47 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  51 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  52 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  63 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  64 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  67 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  68 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  72 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  77 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  80 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  85 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  95 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  96 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  99 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  101 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  108 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  124 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  126 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  139 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  146 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  152 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  156 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  161 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  170 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  174 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  177 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  192 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  214 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  236 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  241 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  250 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  251 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  255 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  256 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  262 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  271 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  273 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  276 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  277 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  301 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  305 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  306 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  307 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  332 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  334 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  341 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  344 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  351 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  361 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  370 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  373 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  374 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  380 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  382 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  393 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  396 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  398 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  400 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  404 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  405 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  409 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  413 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  418 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  421 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  426 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  427 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  429 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  434 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  435 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  442 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  447 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  448 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  453 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  457 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  458 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  459 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  464 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  467 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  477 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  478 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  480 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  484 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  490 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  494 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  497 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  500 th filter in  28 th layer===
+Pruned params: 636,168
+Pruned ratio:  0.4736863949277593 %
+Accuracy of pruned model:  94.25
+===Ready to prune  86 th filter in  5 th layer===
+Pruned params: 636,745
+Pruned ratio:  0.47411602522961876 %
+Accuracy of pruned model:  94.23
+===Ready to prune  2 th filter in  17 th layer===
+Pruned params: 639,050
+Pruned ratio:  0.4758323126573242 %
+Accuracy of pruned model:  94.22
+===Ready to prune  399 th filter in  28 th layer===
+Pruned params: 643,659
+Pruned ratio:  0.4792641429194908 %
+Accuracy of pruned model:  94.21
+===Ready to prune  13 th filter in  28 th layer===
+Pruned params: 648,268
+Pruned ratio:  0.4826959731816575 %
+Accuracy of pruned model:  94.18
+===Ready to prune  460 th filter in  17 th layer===
+Pruned params: 650,573
+Pruned ratio:  0.4844122606093629 %
+Accuracy of pruned model:  94.16
+===Ready to prune  242 th filter in  21 th layer===
+Pruned params: 655,182
+Pruned ratio:  0.4878440908715296 %
+Accuracy of pruned model:  94.18
+===Ready to prune  80 th filter in  21 th layer===
+Pruned params: 659,791
+Pruned ratio:  0.4912759211336962 %
+Accuracy of pruned model:  94.24
+===Ready to prune  12 th filter in  28 th layer===
+Pruned params: 664,400
+Pruned ratio:  0.49470775139586287 %
+Accuracy of pruned model:  94.19
+===Ready to prune  361 th filter in  17 th layer===
+Pruned params: 666,705
+Pruned ratio:  0.4964240388235683 %
+Accuracy of pruned model:  94.19
+===Ready to prune  249 th filter in  26 th layer===
+Pruned params: 671,314
+Pruned ratio:  0.4998558690857349 %
+Accuracy of pruned model:  94.2
+===Ready to prune  509 th filter in  21 th layer===
+Pruned params: 675,923
+Pruned ratio:  0.5032876993479016 %
+Accuracy of pruned model:  94.2
+===Ready to prune  506 th filter in  28 th layer===
+Pruned params: 680,532
+Pruned ratio:  0.5067195296100683 %
+Accuracy of pruned model:  94.22
+===Ready to prune  122 th filter in  19 th layer===
+Pruned params: 685,141
+Pruned ratio:  0.5101513598722349 %
+Accuracy of pruned model:  94.23
+===Ready to prune  253 th filter in  28 th layer===
+Pruned params: 689,750
+Pruned ratio:  0.5135831901344016 %
+Accuracy of pruned model:  94.26
+===Ready to prune  425 th filter in  21 th layer===
+Pruned params: 694,359
+Pruned ratio:  0.5170150203965683 %
+Accuracy of pruned model:  94.25
+===Ready to prune  488 th filter in  28 th layer===
+Pruned params: 698,968
+Pruned ratio:  0.520446850658735 %
+Accuracy of pruned model:  94.24
+===Ready to prune  234 th filter in  28 th layer===
+Pruned params: 703,577
+Pruned ratio:  0.5238786809209016 %
+Accuracy of pruned model:  94.24
+===Ready to prune  186 th filter in  12 th layer===
+Pruned params: 705,882
+Pruned ratio:  0.525594968348607 %
+Accuracy of pruned model:  94.28
+===Ready to prune  67 th filter in  14 th layer===
+Pruned params: 708,187
+Pruned ratio:  0.5273112557763124 %
+Accuracy of pruned model:  94.24
+===Ready to prune  445 th filter in  28 th layer===
+Pruned params: 712,796
+Pruned ratio:  0.5307430860384791 %
+Accuracy of pruned model:  94.25
+===Ready to prune  367 th filter in  17 th layer===
+Pruned params: 715,101
+Pruned ratio:  0.5324593734661844 %
+Accuracy of pruned model:  94.27
+===Ready to prune  345 th filter in  26 th layer===
+Pruned params: 719,710
+Pruned ratio:  0.5358912037283511 %
+Accuracy of pruned model:  94.26
+===Ready to prune  451 th filter in  28 th layer===
+Pruned params: 724,319
+Pruned ratio:  0.5393230339905177 %
+Accuracy of pruned model:  94.24
+===Ready to prune  60 th filter in  28 th layer===
+Pruned params: 728,928
+Pruned ratio:  0.5427548642526845 %
+Accuracy of pruned model:  94.24
+===Ready to prune  105 th filter in  17 th layer===
+Pruned params: 731,233
+Pruned ratio:  0.5444711516803898 %
+Accuracy of pruned model:  94.24
+===Ready to prune  510 th filter in  28 th layer===
+Pruned params: 735,842
+Pruned ratio:  0.5479029819425565 %
+Accuracy of pruned model:  94.23
+===Ready to prune  184 th filter in  21 th layer===
+Pruned params: 740,451
+Pruned ratio:  0.5513348122047231 %
+Accuracy of pruned model:  94.23
+===Ready to prune  213 th filter in  28 th layer===
+Pruned params: 745,060
+Pruned ratio:  0.5547666424668899 %
+Accuracy of pruned model:  94.25
+===Ready to prune  290 th filter in  28 th layer===
+Pruned params: 749,669
+Pruned ratio:  0.5581984727290565 %
+Accuracy of pruned model:  94.24
+===Ready to prune  112 th filter in  14 th layer===
+Pruned params: 751,974
+Pruned ratio:  0.5599147601567619 %
+Accuracy of pruned model:  94.26
+===Ready to prune  496 th filter in  26 th layer===
+Pruned params: 756,583
+Pruned ratio:  0.5633465904189285 %
+Accuracy of pruned model:  94.31
+===Ready to prune  119 th filter in  19 th layer===
+Pruned params: 761,192
+Pruned ratio:  0.5667784206810952 %
+Accuracy of pruned model:  94.3
+===Ready to prune  98 th filter in  24 th layer===
+Pruned params: 765,801
+Pruned ratio:  0.5702102509432619 %
+Accuracy of pruned model:  94.27
+===Ready to prune  371 th filter in  28 th layer===
+Pruned params: 770,410
+Pruned ratio:  0.5736420812054286 %
+Accuracy of pruned model:  94.24
+===Ready to prune  158 th filter in  21 th layer===
+Pruned params: 775,019
+Pruned ratio:  0.5770739114675952 %
+Accuracy of pruned model:  94.22
+===Ready to prune  158 th filter in  28 th layer===
+Pruned params: 779,628
+Pruned ratio:  0.5805057417297619 %
+Accuracy of pruned model:  94.24
+===Ready to prune  97 th filter in  12 th layer===
+Pruned params: 781,933
+Pruned ratio:  0.5822220291574672 %
+Accuracy of pruned model:  94.28
+===Ready to prune  264 th filter in  28 th layer===
+Pruned params: 786,542
+Pruned ratio:  0.585653859419634 %
+Accuracy of pruned model:  94.22
+===Ready to prune  157 th filter in  28 th layer===
+Pruned params: 791,151
+Pruned ratio:  0.5890856896818006 %
+Accuracy of pruned model:  94.3
+===Ready to prune  406 th filter in  21 th layer===
+Pruned params: 795,760
+Pruned ratio:  0.5925175199439673 %
+Accuracy of pruned model:  94.27
+===Ready to prune  43 th filter in  28 th layer===
+Pruned params: 800,369
+Pruned ratio:  0.5959493502061339 %
+Accuracy of pruned model:  94.27
+===Ready to prune  118 th filter in  28 th layer===
+Pruned params: 804,978
+Pruned ratio:  0.5993811804683006 %
+Accuracy of pruned model:  94.26
+===Ready to prune  94 th filter in  17 th layer===
+Pruned params: 807,283
+Pruned ratio:  0.601097467896006 %
+Accuracy of pruned model:  94.26
+===Ready to prune  494 th filter in  26 th layer===
+Pruned params: 811,892
+Pruned ratio:  0.6045292981581727 %
+Accuracy of pruned model:  94.24
+===Ready to prune  61 th filter in  24 th layer===
+Pruned params: 816,501
+Pruned ratio:  0.6079611284203393 %
+Accuracy of pruned model:  94.18
+===Ready to prune  408 th filter in  17 th layer===
+Pruned params: 818,806
+Pruned ratio:  0.6096774158480447 %
+Accuracy of pruned model:  94.16
+===Ready to prune  166 th filter in  28 th layer===
+Pruned params: 823,415
+Pruned ratio:  0.6131092461102113 %
+Accuracy of pruned model:  94.17
+===Ready to prune  81 th filter in  28 th layer===
+Pruned params: 828,024
+Pruned ratio:  0.6165410763723781 %
+Accuracy of pruned model:  94.22
+===Ready to prune  65 th filter in  28 th layer===
+Pruned params: 832,633
+Pruned ratio:  0.6199729066345447 %
+Accuracy of pruned model:  94.24
+===Ready to prune  499 th filter in  28 th layer===
+Pruned params: 837,242
+Pruned ratio:  0.6234047368967114 %
+Accuracy of pruned model:  94.24
+===Ready to prune  145 th filter in  28 th layer===
+Pruned params: 841,851
+Pruned ratio:  0.626836567158878 %
+Accuracy of pruned model:  94.33
+===Ready to prune  184 th filter in  28 th layer===
+Pruned params: 846,460
+Pruned ratio:  0.6302683974210447 %
+Accuracy of pruned model:  94.37
+===Ready to prune  376 th filter in  28 th layer===
+Pruned params: 851,069
+Pruned ratio:  0.6337002276832113 %
+Accuracy of pruned model:  94.33
+===Ready to prune  56 th filter in  5 th layer===
+Pruned params: 851,646
+Pruned ratio:  0.6341298579850708 %
+Accuracy of pruned model:  94.34
+===Ready to prune  87 th filter in  7 th layer===
+Pruned params: 852,799
+Pruned ratio:  0.6349883739955455 %
+Accuracy of pruned model:  94.36
+===Ready to prune  296 th filter in  28 th layer===
+Pruned params: 857,408
+Pruned ratio:  0.6384202042577123 %
+Accuracy of pruned model:  94.34
+===Ready to prune  180 th filter in  28 th layer===
+Pruned params: 862,017
+Pruned ratio:  0.6418520345198789 %
+Accuracy of pruned model:  94.33
+===Ready to prune  21 th filter in  26 th layer===
+Pruned params: 866,626
+Pruned ratio:  0.6452838647820456 %
+Accuracy of pruned model:  94.36
+===Ready to prune  188 th filter in  17 th layer===
+Pruned params: 868,931
+Pruned ratio:  0.6470001522097509 %
+Accuracy of pruned model:  94.31
+===Ready to prune  480 th filter in  26 th layer===
+Pruned params: 873,540
+Pruned ratio:  0.6504319824719176 %
+Accuracy of pruned model:  94.33
+===Ready to prune  61 th filter in  28 th layer===
+Pruned params: 878,149
+Pruned ratio:  0.6538638127340843 %
+Accuracy of pruned model:  94.36
+===Ready to prune  408 th filter in  21 th layer===
+Pruned params: 882,758
+Pruned ratio:  0.657295642996251 %
+Accuracy of pruned model:  94.38
+===Ready to prune  274 th filter in  24 th layer===
+Pruned params: 887,367
+Pruned ratio:  0.6607274732584176 %
+Accuracy of pruned model:  94.31
+===Ready to prune  315 th filter in  28 th layer===
+Pruned params: 891,976
+Pruned ratio:  0.6641593035205843 %
+Accuracy of pruned model:  94.3
+===Ready to prune  107 th filter in  28 th layer===
+Pruned params: 896,585
+Pruned ratio:  0.6675911337827509 %
+Accuracy of pruned model:  94.31
+===Ready to prune  409 th filter in  19 th layer===
+Pruned params: 901,194
+Pruned ratio:  0.6710229640449176 %
+Accuracy of pruned model:  94.36
+===Ready to prune  0 th filter in  28 th layer===
+Pruned params: 905,803
+Pruned ratio:  0.6744547943070843 %
+Accuracy of pruned model:  94.38
+===Ready to prune  350 th filter in  28 th layer===
+Pruned params: 910,412
+Pruned ratio:  0.677886624569251 %
+Accuracy of pruned model:  94.33
+===Ready to prune  485 th filter in  28 th layer===
+Pruned params: 915,021
+Pruned ratio:  0.6813184548314176 %
+Accuracy of pruned model:  94.36
+===Ready to prune  455 th filter in  28 th layer===
+Pruned params: 919,630
+Pruned ratio:  0.6847502850935843 %
+Accuracy of pruned model:  94.25
+===Ready to prune  193 th filter in  21 th layer===
+Pruned params: 924,239
+Pruned ratio:  0.6881821153557509 %
+Accuracy of pruned model:  94.32
+===Ready to prune  299 th filter in  17 th layer===
+Pruned params: 926,544
+Pruned ratio:  0.6898984027834564 %
+Accuracy of pruned model:  94.35
+===Ready to prune  247 th filter in  17 th layer===
+Pruned params: 928,849
+Pruned ratio:  0.6916146902111617 %
+Accuracy of pruned model:  94.33
+===Ready to prune  10 th filter in  12 th layer===
+Pruned params: 931,154
+Pruned ratio:  0.6933309776388671 %
+Accuracy of pruned model:  94.29
+===Ready to prune  274 th filter in  28 th layer===
+Pruned params: 935,763
+Pruned ratio:  0.6967628079010338 %
+Accuracy of pruned model:  94.23
+===Ready to prune  175 th filter in  28 th layer===
+Pruned params: 940,372
+Pruned ratio:  0.7001946381632005 %
+Accuracy of pruned model:  94.25
+===Ready to prune  489 th filter in  24 th layer===
+Pruned params: 944,981
+Pruned ratio:  0.7036264684253671 %
+Accuracy of pruned model:  94.26
+===Ready to prune  186 th filter in  28 th layer===
+Pruned params: 949,590
+Pruned ratio:  0.7070582986875338 %
+Accuracy of pruned model:  94.28
+===Ready to prune  224 th filter in  28 th layer===
+Pruned params: 954,199
+Pruned ratio:  0.7104901289497004 %
+Accuracy of pruned model:  94.31
+===Ready to prune  360 th filter in  24 th layer===
+Pruned params: 958,808
+Pruned ratio:  0.7139219592118671 %
+Accuracy of pruned model:  94.3
+===Ready to prune  162 th filter in  21 th layer===
+Pruned params: 963,417
+Pruned ratio:  0.7173537894740338 %
+Accuracy of pruned model:  94.22
+===Ready to prune  7 th filter in  28 th layer===
+Pruned params: 968,026
+Pruned ratio:  0.7207856197362005 %
+Accuracy of pruned model:  94.2
+===Ready to prune  278 th filter in  24 th layer===
+Pruned params: 972,635
+Pruned ratio:  0.7242174499983671 %
+Accuracy of pruned model:  94.22
+===Ready to prune  110 th filter in  19 th layer===
+Pruned params: 977,244
+Pruned ratio:  0.7276492802605338 %
+Accuracy of pruned model:  94.21
+===Ready to prune  281 th filter in  28 th layer===
+Pruned params: 981,853
+Pruned ratio:  0.7310811105227004 %
+Accuracy of pruned model:  94.22
+===Ready to prune  220 th filter in  10 th layer===
+Pruned params: 983,006
+Pruned ratio:  0.7319396265331752 %
+Accuracy of pruned model:  94.23
+===Ready to prune  11 th filter in  28 th layer===
+Pruned params: 987,615
+Pruned ratio:  0.7353714567953419 %
+Accuracy of pruned model:  94.18
+===Ready to prune  218 th filter in  17 th layer===
+Pruned params: 989,920
+Pruned ratio:  0.7370877442230472 %
+Accuracy of pruned model:  94.18
+===Ready to prune  260 th filter in  28 th layer===
+Pruned params: 994,529
+Pruned ratio:  0.7405195744852139 %
+Accuracy of pruned model:  94.19
+===Ready to prune  64 th filter in  24 th layer===
+Pruned params: 999,138
+Pruned ratio:  0.7439514047473805 %
+Accuracy of pruned model:  94.21
+===Ready to prune  369 th filter in  28 th layer===
+Pruned params: 1,003,747
+Pruned ratio:  0.7473832350095473 %
+Accuracy of pruned model:  94.24
+===Ready to prune  58 th filter in  28 th layer===
+Pruned params: 1,008,356
+Pruned ratio:  0.7508150652717139 %
+Accuracy of pruned model:  94.25
+===Ready to prune  74 th filter in  28 th layer===
+Pruned params: 1,012,965
+Pruned ratio:  0.7542468955338806 %
+Accuracy of pruned model:  94.26
+===Ready to prune  221 th filter in  28 th layer===
+Pruned params: 1,017,574
+Pruned ratio:  0.7576787257960472 %
+Accuracy of pruned model:  94.21
+===Ready to prune  212 th filter in  28 th layer===
+Pruned params: 1,022,183
+Pruned ratio:  0.7611105560582139 %
+Accuracy of pruned model:  94.13
+===Ready to prune  98 th filter in  19 th layer===
+Pruned params: 1,026,792
+Pruned ratio:  0.7645423863203805 %
+Accuracy of pruned model:  94.19
+===Ready to prune  134 th filter in  28 th layer===
+Pruned params: 1,031,401
+Pruned ratio:  0.7679742165825473 %
+Accuracy of pruned model:  94.17
+===Ready to prune  80 th filter in  5 th layer===
+Pruned params: 1,031,978
+Pruned ratio:  0.7684038468844067 %
+Accuracy of pruned model:  94.11
+===Ready to prune  270 th filter in  28 th layer===
+Pruned params: 1,036,587
+Pruned ratio:  0.7718356771465733 %
+Accuracy of pruned model:  94.11
+===Ready to prune  246 th filter in  14 th layer===
+Pruned params: 1,038,892
+Pruned ratio:  0.7735519645742788 %
+Accuracy of pruned model:  94.18
+===Ready to prune  279 th filter in  28 th layer===
+Pruned params: 1,043,501
+Pruned ratio:  0.7769837948364454 %
+Accuracy of pruned model:  94.24
+===Ready to prune  83 th filter in  28 th layer===
+Pruned params: 1,048,110
+Pruned ratio:  0.7804156250986121 %
+Accuracy of pruned model:  94.26
+===Ready to prune  203 th filter in  28 th layer===
+Pruned params: 1,052,719
+Pruned ratio:  0.7838474553607787 %
+Accuracy of pruned model:  94.24
+===Ready to prune  89 th filter in  19 th layer===
+Pruned params: 1,057,328
+Pruned ratio:  0.7872792856229454 %
+Accuracy of pruned model:  94.22
+===Ready to prune  142 th filter in  28 th layer===
+Pruned params: 1,061,937
+Pruned ratio:  0.7907111158851121 %
+Accuracy of pruned model:  94.23
+===Ready to prune  116 th filter in  28 th layer===
+Pruned params: 1,066,546
+Pruned ratio:  0.7941429461472788 %
+Accuracy of pruned model:  94.25
+===Ready to prune  138 th filter in  28 th layer===
+Pruned params: 1,071,155
+Pruned ratio:  0.7975747764094454 %
+Accuracy of pruned model:  94.24
+===Ready to prune  66 th filter in  28 th layer===
+Pruned params: 1,075,764
+Pruned ratio:  0.801006606671612 %
+Accuracy of pruned model:  94.31
+===Ready to prune  28 th filter in  10 th layer===
+Pruned params: 1,076,917
+Pruned ratio:  0.8018651226820868 %
+Accuracy of pruned model:  94.31
+===Ready to prune  77 th filter in  14 th layer===
+Pruned params: 1,079,222
+Pruned ratio:  0.8035814101097922 %
+Accuracy of pruned model:  94.3
+===Ready to prune  257 th filter in  21 th layer===
+Pruned params: 1,083,831
+Pruned ratio:  0.8070132403719589 %
+Accuracy of pruned model:  94.34
+===Ready to prune  282 th filter in  28 th layer===
+Pruned params: 1,088,440
+Pruned ratio:  0.8104450706341255 %
+Accuracy of pruned model:  94.27
+===Ready to prune  329 th filter in  28 th layer===
+Pruned params: 1,093,049
+Pruned ratio:  0.8138769008962922 %
+Accuracy of pruned model:  94.04
+===Ready to prune  31 th filter in  10 th layer===
+Pruned params: 1,094,202
+Pruned ratio:  0.814735416906767 %
+Accuracy of pruned model:  94.11
+===Ready to prune  505 th filter in  28 th layer===
+Pruned params: 1,098,811
+Pruned ratio:  0.8181672471689336 %
+Accuracy of pruned model:  94.11
